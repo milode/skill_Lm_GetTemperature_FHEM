@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_GetTemperature_FHEM",
+    "icon": "time",
+    "description": "Liefert die temperaturwerte von fhem",
+    "slotTypes": [],
+    "intents": []
+}
